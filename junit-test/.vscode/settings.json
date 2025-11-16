@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "test/junit"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "d:\\Projects\\web-dev-fundamentals\\spring\\junit-test\\lib\\junit-platform-console-standalone-1.13.0-M3.jar"
+    ]
+}
